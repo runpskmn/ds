@@ -1,5 +1,5 @@
 //620710124 พงศกร มีนุช
-/*
+
 import java.util.Random;
 
 class Node{
