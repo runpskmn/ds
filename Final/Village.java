@@ -47,7 +47,7 @@ public class Village{
                 }
             }
         }
-        System.err.println("== Village Calculation===");
+        System.out.println("== Village Calculation===");
         while(true){
             String order = sc.next();
             if(order.equals("-")){
